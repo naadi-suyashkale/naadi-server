@@ -1,0 +1,23 @@
+{
+  "name": "@naadi/server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naadi-suyashkale/naadi-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naadi-suyashkale/naadi-server/issues"
+  },
+  "homepage": "https://github.com/naadi-suyashkale/naadi-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
